@@ -1,0 +1,2 @@
+# ForecastingSimpleRNN
+Memprediksi Harga Saham 
